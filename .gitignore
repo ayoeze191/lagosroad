@@ -1,0 +1,8 @@
+node_modules/
+tools/data/
+client/dist/
+server/dist/
+# Generated map files (rebuild with `npm run map:build -- <lcda>`)
+client/public/maps/*.json
+server/maps/*.json
+*.tsbuildinfo

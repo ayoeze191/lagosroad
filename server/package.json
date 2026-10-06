@@ -1,0 +1,25 @@
+{
+  "name": "@lagos-road-racer/server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/server/src/index.js",
+    "test": "tsx --test src/*.test.ts"
+  },
+  "dependencies": {
+    "@colyseus/core": "^0.18.18",
+    "@colyseus/schema": "^5.0.34",
+    "@colyseus/ws-transport": "^0.18.4",
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

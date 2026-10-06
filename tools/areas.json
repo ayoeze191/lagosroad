@@ -1,0 +1,310 @@
+{
+  "ikorodu-west": {
+    "name": "Ikorodu West LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.57,
+      "west": 3.47,
+      "north": 6.63,
+      "east": 3.53
+    },
+    "seed": "ikorodu-west-v1"
+  },
+  "ijede": {
+    "name": "Ijede LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.555,
+      "west": 3.57,
+      "north": 6.625,
+      "east": 3.66
+    },
+    "seed": "ijede-v1"
+  },
+  "imota": {
+    "name": "Imota LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.63,
+      "west": 3.7,
+      "north": 6.715,
+      "east": 3.81
+    },
+    "seed": "imota-v1"
+  },
+  "igbogbo-bayeku": {
+    "name": "Igbogbo/Bayeku LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.55,
+      "west": 3.51,
+      "north": 6.63,
+      "east": 3.59
+    },
+    "seed": "igbogbo-bayeku-v1"
+  },
+  "ikorodu-north": {
+    "name": "Ikorodu North LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.62,
+      "west": 3.5,
+      "north": 6.71,
+      "east": 3.62
+    },
+    "seed": "ikorodu-north-v1"
+  },
+  "yaba": {
+    "name": "Yaba LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.495,
+      "west": 3.365,
+      "north": 6.53,
+      "east": 3.395
+    },
+    "seed": "yaba-v1"
+  },
+  "victoria-island": {
+    "name": "Iru/Victoria Island LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.415,
+      "west": 3.395,
+      "north": 6.445,
+      "east": 3.445
+    },
+    "seed": "victoria-island-v1"
+  },
+  "iba": {
+    "name": "Iba LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.48,
+      "west": 3.165,
+      "north": 6.515,
+      "east": 3.205
+    },
+    "seed": "iba-v1"
+  },
+  "ikoyi-obalende": {
+    "name": "Ikoyi-Obalende LCDA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.435,
+      "west": 3.415,
+      "north": 6.465,
+      "east": 3.455
+    },
+    "seed": "ikoyi-obalende-v1"
+  },
+  "lagos-island": {
+    "name": "Lagos Island LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.445,
+      "west": 3.38,
+      "north": 6.47,
+      "east": 3.405
+    },
+    "seed": "lagos-island-v1"
+  },
+  "lekki": {
+    "name": "Eti-Osa East LCDA (Lekki)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.425,
+      "west": 3.47,
+      "north": 6.46,
+      "east": 3.53
+    },
+    "seed": "lekki-v1"
+  },
+  "ikeja": {
+    "name": "Ikeja LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.575,
+      "west": 3.33,
+      "north": 6.62,
+      "east": 3.37
+    },
+    "seed": "ikeja-v1"
+  },
+  "surulere": {
+    "name": "Surulere LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.48,
+      "west": 3.335,
+      "north": 6.515,
+      "east": 3.37
+    },
+    "seed": "surulere-v1"
+  },
+  "apapa": {
+    "name": "Apapa LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.43,
+      "west": 3.345,
+      "north": 6.46,
+      "east": 3.38
+    },
+    "seed": "apapa-v1"
+  },
+  "mushin": {
+    "name": "Mushin LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.515,
+      "west": 3.33,
+      "north": 6.55,
+      "east": 3.365
+    },
+    "seed": "mushin-v1"
+  },
+  "oshodi-isolo": {
+    "name": "Oshodi-Isolo LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.53,
+      "west": 3.3,
+      "north": 6.565,
+      "east": 3.34
+    },
+    "seed": "oshodi-isolo-v1"
+  },
+  "agege": {
+    "name": "Agege LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.61,
+      "west": 3.305,
+      "north": 6.64,
+      "east": 3.34
+    },
+    "seed": "agege-v1"
+  },
+  "ifako-ijaiye": {
+    "name": "Ifako-Ijaiye LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.635,
+      "west": 3.31,
+      "north": 6.67,
+      "east": 3.345
+    },
+    "seed": "ifako-ijaiye-v1"
+  },
+  "alimosho": {
+    "name": "Alimosho LGA (Egbeda/Ikotun)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.56,
+      "west": 3.245,
+      "north": 6.6,
+      "east": 3.285
+    },
+    "seed": "alimosho-v1"
+  },
+  "amuwo-odofin": {
+    "name": "Amuwo-Odofin LGA (Festac)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.455,
+      "west": 3.265,
+      "north": 6.49,
+      "east": 3.3
+    },
+    "seed": "amuwo-odofin-v1"
+  },
+  "ajeromi-ifelodun": {
+    "name": "Ajeromi-Ifelodun LGA (Ajegunle)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.445,
+      "west": 3.33,
+      "north": 6.47,
+      "east": 3.36
+    },
+    "seed": "ajeromi-ifelodun-v1"
+  },
+  "ojo": {
+    "name": "Ojo LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.455,
+      "west": 3.15,
+      "north": 6.49,
+      "east": 3.19
+    },
+    "seed": "ojo-v1"
+  },
+  "badagry": {
+    "name": "Badagry LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.405,
+      "west": 2.86,
+      "north": 6.435,
+      "east": 2.905
+    },
+    "seed": "badagry-v1"
+  },
+  "kosofe": {
+    "name": "Kosofe LGA (Ketu/Ojota)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.58,
+      "west": 3.37,
+      "north": 6.615,
+      "east": 3.405
+    },
+    "seed": "kosofe-v1"
+  },
+  "shomolu": {
+    "name": "Shomolu LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.53,
+      "west": 3.37,
+      "north": 6.555,
+      "east": 3.395
+    },
+    "seed": "shomolu-v1"
+  },
+  "epe": {
+    "name": "Epe LGA",
+    "query": {
+      "kind": "bbox",
+      "south": 6.57,
+      "west": 3.96,
+      "north": 6.6,
+      "east": 4.0
+    },
+    "seed": "epe-v1"
+  },
+  "ibeju-lekki": {
+    "name": "Ibeju-Lekki LGA (Awoyaya)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.455,
+      "west": 3.64,
+      "north": 6.485,
+      "east": 3.68
+    },
+    "seed": "ibeju-lekki-v1"
+  },
+  "lagos-mainland": {
+    "name": "Lagos Mainland LGA (Ebute Metta)",
+    "query": {
+      "kind": "bbox",
+      "south": 6.47,
+      "west": 3.37,
+      "north": 6.5,
+      "east": 3.395
+    },
+    "seed": "lagos-mainland-v1"
+  }
+}

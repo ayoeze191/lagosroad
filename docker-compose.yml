@@ -1,0 +1,18 @@
+services:
+  race-server:
+    build:
+      context: .
+      dockerfile: server/Dockerfile
+    environment:
+      PORT: 2567
+    ports:
+      - "2567:2567"
+  client:
+    build:
+      context: .
+      dockerfile: client/Dockerfile
+      # For a public deployment set this to your public race server, e.g. wss://race.example.com
+      args:
+        VITE_COLYSEUS_URL: ""
+    ports:
+      - "8080:80"

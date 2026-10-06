@@ -1,0 +1,16 @@
+{
+  "name": "@lagos-road-racer/tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:map": "tsx src/build-map.ts",
+    "list:areas": "tsx src/build-map.ts --list",
+    "stage:maps": "tsx src/stage-maps.ts",
+    "validate:map": "tsx src/validate-map.ts",
+    "test": "tsx --test src/*.test.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2"
+  }
+}

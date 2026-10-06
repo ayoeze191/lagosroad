@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "experimentalDecorators": true,
+    "useDefineForClassFields": false,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "rootDir": "..",
+    "types": ["node"]
+  },
+  "include": ["src", "../shared"],
+  "exclude": ["src/**/*.test.ts"]
+}
