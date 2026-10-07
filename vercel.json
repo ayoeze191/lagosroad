@@ -1,0 +1,14 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "vite",
+  "installCommand": "npm ci --workspace client --include-workspace-root",
+  "buildCommand": "npm run client:build",
+  "outputDirectory": "client/dist",
+  "headers": [
+    {
+      "source": "/maps/(.*)",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600" }]
+    }
+  ],
+  "rewrites": [{ "source": "/((?!maps/|cars/|assets/).*)", "destination": "/index.html" }]
+}
