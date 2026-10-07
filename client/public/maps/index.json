@@ -1,0 +1,118 @@
+[
+  {
+    "slug": "agege",
+    "name": "Agege LGA"
+  },
+  {
+    "slug": "ajeromi-ifelodun",
+    "name": "Ajeromi-Ifelodun LGA (Ajegunle)"
+  },
+  {
+    "slug": "alimosho",
+    "name": "Alimosho LGA (Egbeda/Ikotun)"
+  },
+  {
+    "slug": "amuwo-odofin",
+    "name": "Amuwo-Odofin LGA (Festac)"
+  },
+  {
+    "slug": "apapa",
+    "name": "Apapa LGA"
+  },
+  {
+    "slug": "badagry",
+    "name": "Badagry LGA"
+  },
+  {
+    "slug": "epe",
+    "name": "Epe LGA"
+  },
+  {
+    "slug": "iba",
+    "name": "Iba LCDA"
+  },
+  {
+    "slug": "ibeju-lekki",
+    "name": "Ibeju-Lekki LGA (Awoyaya)"
+  },
+  {
+    "slug": "ifako-ijaiye",
+    "name": "Ifako-Ijaiye LGA"
+  },
+  {
+    "slug": "igbogbo-bayeku",
+    "name": "Igbogbo/Bayeku LCDA"
+  },
+  {
+    "slug": "ijede",
+    "name": "Ijede LCDA"
+  },
+  {
+    "slug": "ikeja",
+    "name": "Ikeja LGA"
+  },
+  {
+    "slug": "ikorodu-north",
+    "name": "Ikorodu North LCDA"
+  },
+  {
+    "slug": "ikorodu-west--ijede",
+    "name": "Ikorodu West ↔ Ijede"
+  },
+  {
+    "slug": "ikorodu-west",
+    "name": "Ikorodu West LCDA"
+  },
+  {
+    "slug": "ikoyi-obalende",
+    "name": "Ikoyi-Obalende LCDA"
+  },
+  {
+    "slug": "imota",
+    "name": "Imota LCDA"
+  },
+  {
+    "slug": "kosofe",
+    "name": "Kosofe LGA (Ketu/Ojota)"
+  },
+  {
+    "slug": "lagos-island",
+    "name": "Lagos Island LGA"
+  },
+  {
+    "slug": "lagos-mainland",
+    "name": "Lagos Mainland LGA (Ebute Metta)"
+  },
+  {
+    "slug": "lekki",
+    "name": "Eti-Osa East LCDA (Lekki)"
+  },
+  {
+    "slug": "mushin",
+    "name": "Mushin LGA"
+  },
+  {
+    "slug": "ojo",
+    "name": "Ojo LGA"
+  },
+  {
+    "slug": "oshodi-isolo",
+    "name": "Oshodi-Isolo LGA"
+  },
+  {
+    "slug": "shomolu",
+    "name": "Shomolu LGA"
+  },
+  {
+    "slug": "surulere",
+    "name": "Surulere LGA"
+  },
+  {
+    "slug": "victoria-island",
+    "name": "Iru/Victoria Island LCDA"
+  },
+  {
+    "slug": "yaba",
+    "name": "Yaba LCDA"
+  }
+]
